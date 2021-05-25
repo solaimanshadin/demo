@@ -1,5 +1,5 @@
 {
-  [
+  books: [
         {
             "_id": "60ad137761cb0743e7c81b4f",
             "title": "How to Be an Antiracist",
